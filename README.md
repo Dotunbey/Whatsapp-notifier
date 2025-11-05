@@ -217,7 +217,7 @@ curl -X POST http://localhost:8000/classify \
 
 **Aina Adoption Oluwasomidotun**
 📍 Data Scientist | AI Engineer | Automation Specialist
-🔗 [LinkedIn](#) | [GitHub](#) | [Email](#)
+🔗 [LinkedIn]([#](https://www.linkedin.com/in/adoption) | [GitHub](#) | [mail](#ainaadoption@gmail.com)
 
 ---
 
