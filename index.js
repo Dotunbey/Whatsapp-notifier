@@ -12,7 +12,7 @@ const axios = require('axios');
 const qrcode = require('qrcode-terminal');
 
 // ===== CONFIGURATION =====
-const FLASK_API = 'http://localhost:8000/classify';  // your app.py endpoint
+const FLASK_API = 'https://whatsapp-notifier-87yb.onrender.com/classify';  // your app.py endpoint
 const TARGET_GROUPS = [
   '120363421163177091@g.us',  // Replace with your real group IDs
   // Add more if needed
@@ -107,3 +107,4 @@ process.on('uncaughtException', err => {
 // ===== START =====
 console.log('🚀 Starting WhatsApp client...');
 client.initialize();
+
